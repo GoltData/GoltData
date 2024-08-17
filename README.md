@@ -1,6 +1,6 @@
 <br clear="both">
 
-![image_err](https://github.com/GoltData/GoltData/blob/main/banner.png)
+![image_err](https://github.com/GoltData/GoltData/blob/main/banner(2).png)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GoltData.GoltData&right_color=brown&left_color=gray"  />
